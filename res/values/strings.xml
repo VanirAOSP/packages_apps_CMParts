@@ -540,4 +540,8 @@
     <string name="expanded_desktop_style_hide_navigation">Hide navigation bar</string>
     <string name="expanded_desktop_style_hide_both">Hide both</string>
     <string name="expanded_desktop_nothing_to_show_text">Turn the switch off to customize your expanded desktop on a per-app basis</string>
+
+    <!-- Superuser indicator on status bar -->
+    <string name="su_indicator">Superuser indicator</string>
+    <string name="su_indicator_summary">Show superuser indicator on status bar when a session is active</string>
 </resources>
