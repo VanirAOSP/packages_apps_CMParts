@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cmparts_title">CyanogenMod ezarpenak</string>
+  <string name="cmparts_title">Vanir ezarpenak</string>
   <!-- Generic stuff used everywhere -->
   <string name="loading">Kargatzen\u2026</string>
   <string name="dlg_ok">Ados</string>
@@ -426,10 +426,10 @@
                  <b>Azken eguneraketa:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">CyanogenMod estatistikak</string>
-  <string name="anonymous_statistics_summary">CyanogenMod hobetzen lagundu estatistika anonimoak bidaliz</string>
+  <string name="anonymous_statistics_title">Vanir estatistikak</string>
+  <string name="anonymous_statistics_summary">Vanir hobetzen lagundu estatistika anonimoak bidaliz</string>
   <string name="anonymous_statistics_warning_title">Honi buruz</string>
-  <string name="anonymous_statistics_warning">CyanogenMod-en estatistiken bilketa eta bidaltzea baimenduz, informazio ez pertsonala CyanogenMod garatzaileei bidaltzea baimentzen duzu, gailuetan burutzen diren instalazioen jarraipenerako. Bidalitako informazioak identifikadore esklusibo eta anonimo bat darama.
+  <string name="anonymous_statistics_warning">Vanir-en estatistiken bilketa eta bidaltzea baimenduz, informazio ez pertsonala CyanogenMod garatzaileei bidaltzea baimentzen duzu, gailuetan burutzen diren instalazioen jarraipenerako. Bidalitako informazioak identifikadore esklusibo eta anonimo bat darama.
 Informazio hau gailuaren abio bakoitzean bidaltzen da.\n\nBidalitako informazioaren adibide bat ikusteko, sakatu Aurreikusi datuak.</string>
   <string name="enable_reporting_title">Gaitu txosten bidalketa</string>
   <string name="preview_data_title">Aurreikusi datuak</string>

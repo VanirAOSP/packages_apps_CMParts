@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cmparts_title">Definições CyanogenMod</string>
+  <string name="cmparts_title">Definições Vanir</string>
   <!-- Generic stuff used everywhere -->
   <string name="loading">A carregar\u2026</string>
   <string name="dlg_ok">OK</string>
@@ -426,7 +426,7 @@
                  <b>Última atualização:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">Estatísticas CyanogenMod</string>
+  <string name="anonymous_statistics_title">Estatísticas Vanir</string>
   <string name="anonymous_statistics_summary">Ajude a melhorar a CyanogenMod optando por ativar o envio do relatório de estatísticas anónimas</string>
   <string name="anonymous_statistics_warning_title">Acerca de</string>
   <string name="anonymous_statistics_warning">Optar pelo envio de estatísticas CyanogenMod vai permitir que dados não pessoais sejam transmitidos aos desenvolvedores da CyanogenMod, para rastrearem instalações nos dispositivos. As informações submetidas incluem um identificador único, que não compromete a sua privacidade ou dados pessoais. Os dados são enviados durante cada inicialização.\n\nPara um exemplo dos dados que são enviados, toque em \'Pré-visualizar dados\'.</string>

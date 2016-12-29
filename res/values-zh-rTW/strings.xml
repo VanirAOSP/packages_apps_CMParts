@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cmparts_title">CyanogenMod 設定</string>
+  <string name="cmparts_title">Vanir 設定</string>
   <!-- Generic stuff used everywhere -->
   <string name="loading">正在讀取\u2026</string>
   <string name="dlg_ok">確定</string>
@@ -425,8 +425,8 @@
                  <b>最後更新：</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">CyanogenMod 統計</string>
-  <string name="anonymous_statistics_summary">加入匿名統計報告即可協助改進 CyanogenMod</string>
+  <string name="anonymous_statistics_title">Vanir 統計</string>
+  <string name="anonymous_statistics_summary">加入匿名統計報告即可協助改進 Vanir</string>
   <string name="anonymous_statistics_warning_title">相關資訊</string>
   <string name="anonymous_statistics_warning">加入 CyanogenMod 統計將允許非個人資料被提交到 CyanogenMod 的開發人員，
         以追蹤每個裝置上的獨特安裝。提交的資訊包含一個唯一識別碼，此識別碼並不會泄露您的隱私或個人資料。

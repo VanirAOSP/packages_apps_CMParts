@@ -16,7 +16,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cmparts_title">Nastavenia CyanogenMod</string>
+  <string name="cmparts_title">Nastavenia Vanir</string>
   <!-- Generic stuff used everywhere -->
   <string name="loading">Nahrávanie\u2026</string>
   <string name="dlg_ok">OK</string>
@@ -426,7 +426,7 @@
 <b>Posledná aktualizácia:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">Štatistiky CyanogenMod</string>
+  <string name="anonymous_statistics_title">Štatistiky Vanir</string>
   <string name="anonymous_statistics_summary">Pomôžte zlepšiť CyanogenMod povolením anonymných štatistických hlásení</string>
   <string name="anonymous_statistics_warning_title">O</string>
   <string name="anonymous_statistics_warning">Povolením štatistík CyanogenMod súhlasíte s odosielaním neosobných údajov vývojárom CyanogenModu, za účelom evidencie jedinečných inštalácií naprieč všetkými zariadeniami. Informácie obsahujú unikátny identifikátor, ktorý neohrozuje vaše súkromné alebo osobné údaje. Údaje sú odoslané pri každom spustení.\n\nNa ukážku odosielaných údajov kliknite na Prehľad údajov.</string>
