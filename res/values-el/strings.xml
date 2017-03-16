@@ -17,7 +17,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cmparts_title">Ρυθμίσεις LineageOS</string>
+  <string name="cmparts_title">Ρυθμίσεις Vanir</string>
   <!-- Generic stuff used everywhere -->
   <string name="loading">Φόρτωση\u2026</string>
   <string name="dlg_ok">ΟΚ</string>
@@ -422,7 +422,7 @@
                  <b>Τελευταία ενημέρωση:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">Στατιστικά LineageOS</string>
+  <string name="anonymous_statistics_title">Στατιστικά Vanir</string>
   <string name="anonymous_statistics_summary">Βοηθήστε το LineageOS να γίνει καλύτερο ενεργοποιώντας την αποστολή ανώνυμων στατιστικών στοιχείων</string>
   <string name="anonymous_statistics_warning_title">Σχετικά</string>
   <string name="anonymous_statistics_warning">Ενεργοποιώντας τα στατιστικά του LineageOS επιτρέπετε την αποστολή

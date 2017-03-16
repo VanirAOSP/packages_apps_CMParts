@@ -17,7 +17,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cmparts_title">LineageOS поставке</string>
+  <string name="cmparts_title">Vanir поставке</string>
   <!-- Generic stuff used everywhere -->
   <string name="loading">Учитавање\u2026</string>
   <string name="dlg_ok">ОК</string>
@@ -418,7 +418,7 @@
   <string name="contributor_info_menu">Информације сарадника</string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">LineageOS статистика</string>
+  <string name="anonymous_statistics_title">Vanir статистика</string>
   <string name="enable_reporting_title">Омогући извештавање</string>
   <string name="preview_data_title">Преглед података</string>
   <string name="view_stats_title">Прикажи статистику</string>

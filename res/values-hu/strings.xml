@@ -17,7 +17,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cmparts_title">LineageOS beállítások</string>
+  <string name="cmparts_title">Vanir beállítások</string>
   <!-- Generic stuff used everywhere -->
   <string name="loading">Betöltés\u2026</string>
   <string name="dlg_ok">OK</string>
@@ -437,7 +437,7 @@
                  <b>Utolsó frissítés:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">LineageOS statisztika</string>
+  <string name="anonymous_statistics_title">Vanir statisztika</string>
   <string name="anonymous_statistics_summary">Segítsen a LineageOS jobbá tételében, kapcsolja be a névtelen statisztikai adatok gyűjtését</string>
   <string name="anonymous_statistics_warning_title">Névjegy</string>
   <string name="anonymous_statistics_warning">A LineageOS statisztika engedélyezése nem terjed ki személyes adatokra, csak egy egyedi azonosítóval azonosítjuk az eszközöket. A beküldött adatok beleértve az egyedi azonosítót, nem veszélyeztetik az adatvédelmi vagy személyes adatokat. A statisztika minden rendszerindításkor elküldésre kerül.\n\nAz elküldött adatok menüpont alatt tekintheti meg a statisztikai adatokat.</string>

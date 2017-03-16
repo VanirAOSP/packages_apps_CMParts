@@ -17,7 +17,7 @@
 	limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="cmparts_title">Axustes de LineageOS</string>
+  <string name="cmparts_title">Axustes de Vanir</string>
   <!-- Generic stuff used everywhere -->
   <string name="loading">Cargando\u2026</string>
   <string name="dlg_ok">Aceutar</string>
@@ -246,7 +246,7 @@
                  <b>Anovamientu caberu:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">Estadístiques de LineageOS</string>
+  <string name="anonymous_statistics_title">Estadístiques de Vanir</string>
   <string name="anonymous_statistics_summary">Ayuda a ameyorar LineageOS dando laude al unviu anónimu d\'estadístiques</string>
   <string name="anonymous_statistics_warning_title">Tocante a</string>
   <string name="anonymous_statistics_warning">Dar laude a les estadístiques de LineageOS permitirá l\'unviu de datos non personales a

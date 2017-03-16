@@ -433,7 +433,7 @@
                  <b>Laatste update:</b> <xliff:g id="date">%3$s</xliff:g>]]></string>
   <!-- Anonymous Statistics #CM -->
   <!-- About device screen, list item title. Takes the user to the screen about opting in or out of anonymous statistics. -->
-  <string name="anonymous_statistics_title">LineageOS-statistieken</string>
+  <string name="anonymous_statistics_title">Vanir-statistieken</string>
   <string name="anonymous_statistics_summary">Help LineageOS te verbeteren door anonieme statistieken te verzenden</string>
   <string name="anonymous_statistics_warning_title">Over</string>
   <string name="anonymous_statistics_warning">Door statistieken verzenden toe te staan worden tijdens het opstarten anonieme gegevens naar de ontwikkelaars van CyanogenMod verzonden om unieke installaties te kunnen volgen. In de gegevens zit een uniek id-nummer verwerkt, dat uw privacy niet schendt.\n\nOm een voorbeeld te zien, tikt u op \'Voorbeeld van gegevens\'.</string>
